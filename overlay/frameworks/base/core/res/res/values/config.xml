@@ -631,9 +631,6 @@
 	 2: gestures only for back, home and overview -->
     <integer name="config_navBarInteractionMode">2</integer>
     
-    <!-- FPSInfoService Fps file path -->
-    <string name="config_fpsInfoSysNode" translatable="false">/sys/devices/virtual/graphics/fb0/measured_fps</string>
-
     <!-- Smart charging -->
     <bool name="config_smartChargingAvailable">false</bool>
     <integer name="config_smartChargingBatteryLevel">80</integer>
